@@ -1,0 +1,17 @@
+{
+  "name": "gemini-watermark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.32.1",
+  "dependencies": {
+    "@pilio/gemini-watermark-remover": "^1.0.41",
+    "playwright": "^1.63.0"
+  }
+}
